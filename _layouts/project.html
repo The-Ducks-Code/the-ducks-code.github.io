@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    
+    <script>
+    (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-WWNF2VN');</script>
+    <!-- End Google Tag Manager -->
+    <!-- Primary Meta Tags -->
+    <title>{{ page.title }} – {{ site.title }}</title>
+    <meta name="title" content="The Duck">
+    <meta name="description" content="" "Quack Quack">
+
+
+    <script src="/bootstrap/bootstrap.bundle.min.js"></script>
+    <link href="/bootstrap/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="/css/cookie.css" />
+
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWNF2VN"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div class="topnav">
+        <a href="/"><img src="/images/lambda.png" width="25" height="25" alt="searchlogo" class="searchlogo"></a>
+        <a id="homeNav" href="/">Home</a>
+       
+        <a id="aboutNav" href="/info/about/">About</a>
+        <a id="contactNav" href="/info/contact/">Contact</a>
+        {% include search-lunr.html %}
+    </div>
+
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+
+            {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
+            <li class="breadcrumb-item"><a href="/">Home</a></li>
+            {% for crumb in crumbs offset: 1 %}
+            {% if forloop.last %}
+            <li class="breadcrumb-item active" aria-current="page">
+                {{
+                crumb | replace:'-',' ' | remove:'.html' |
+                capitalize
+                }}
+            </li>
+            {% else %}
+            <li class="breadcrumb-item">
+                <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">
+                    {{
+                    crumb | replace:'-',' ' | remove:'.html' | capitalize
+                    }}
+                </a>
+            </li>
+            {% endif %}
+            {% endfor %}
+
+
+
+        </ol>
+    </nav>
+
+    <div id="lunrsearchresults">
+        <ul></ul>
+    </div>
+
+    <div class="container">
+        <div class="row text-center">
+            <div class="col">
+
+                <br>
+                <h2>{{ page.title }}</h2>
+                <hr>
+
+                {{ content }}
+
+            </div>
+        </div>
+    </div>
+
+    <br>
+
+    <script src="/ruffle/ruffle.js"></script>
+    <script src="/emulators/emulator.js/src/data/loader.js"></script>
+    <p>half life 3 confirmed</p>
+
+</body>
+
+</html>
