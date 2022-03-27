@@ -31,7 +31,7 @@ title: "Home"
     </script>
 </div>
 <footer>
-<a>Sponsered by:</a>
+<a>Sponsored by:</a>
 <br>
 <p id="sponsor"></p>
 </footer>
