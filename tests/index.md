@@ -12,9 +12,9 @@ title: "Tests"
 <br>
 <a href="jellymario">Jelly Mario</a>
 <a href="gravitytetris">Gravity Tetris</a>
-<a href="angrybirds">Angry Birds</a>
-<a href="superhot">Superhot</a>
-<a href="adventurecapatalist">AdVenture Capatalist</a>
+<a href="powdergame">Powder Game</a>
+<a href="powdergame">Powder Game</a>
+
 
 <div id="514763859">
     <script type="text/javascript">
