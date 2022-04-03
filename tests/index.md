@@ -13,7 +13,8 @@ title: "Tests"
 <a href="jellymario">Jelly Mario</a>
 <a href="gravitytetris">Gravity Tetris</a>
 <a href="powdergame">Powder Game</a>
-<a href="powdergame">Powder Game</a>
+<a href="ee">Earth Editor</a>
+<a href="celeste">Celeste</a>
 
 
 <div id="514763859">
