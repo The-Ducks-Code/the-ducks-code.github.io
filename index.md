@@ -30,6 +30,8 @@ title: "Home"
         catch (error) {}
     </script>
 </div>
+
+<a href="/tests">Tests</a>
 <footer>
 <a>Sponsored by:</a>
 <br>

@@ -11,7 +11,7 @@ title: "Tests"
 <p>Here lies my test sites projects and other shenanigans</p>
 
 <br>
-<a href="/jellymario">Jelly Mario</a>
+<a href="tests/jellymario">Jelly Mario</a>
 <div id="514763859">
     <script type="text/javascript">
         try {
