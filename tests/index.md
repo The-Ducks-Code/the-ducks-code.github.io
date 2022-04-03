@@ -11,7 +11,12 @@ title: "Tests"
 <p>Here lies my test sites projects and other shenanigans</p>
 
 <br>
-<a href="tests/jellymario">Jelly Mario</a>
+<a href="jellymario">Jelly Mario</a>
+<a href="gravitytetris">Gravity Tetris</a>
+<a href="angrybirds">Angry Birds</a>
+<a href="superhot">Superhot</a>
+<a href="adventurecapatalist">AdVenture Capatalist</a>
+
 <div id="514763859">
     <script type="text/javascript">
         try {
@@ -23,7 +28,5 @@ title: "Tests"
     </script>
 </div>
 <footer>
-<a>Sponsored by:</a>
-<br>
-<p id="sponsor"></p>
+
 </footer>
