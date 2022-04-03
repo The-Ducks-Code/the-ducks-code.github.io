@@ -3,7 +3,6 @@ layout: default
 title: "Tests"
 ---
 
-</head>
 
 <h1>Tests</h1>
 
