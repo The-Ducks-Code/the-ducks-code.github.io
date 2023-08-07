@@ -1,0 +1,96 @@
+html {
+
+    background-color:gainsboro;
+}
+
+h1 {
+
+    font-size: 50px;
+    color: #000000;
+    text-transform: uppercase;
+    font-weight: 300;
+    text-align: center;
+    margin-bottom: 15px;
+    font-family:'Courier New', Courier, monospace;
+
+}
+
+h2 {
+
+    font-size: 30px;
+    color: #000000;
+    font-weight: 300;
+    text-align: left;
+    margin-bottom: 15px;
+    font-family:'Courier New', Courier, monospace;
+
+}
+
+h3 {
+
+    font-size: 25px;
+    color: #000000;
+    font-weight: 300;
+    text-align: left;
+    margin-bottom: 15px;
+    font-family:'Courier New', Courier, monospace;
+
+}
+
+a {
+
+    font-size: 17px;
+    color: #000000;
+    font-weight: 300;
+    text-align: left;
+    margin-bottom: 15px;
+    font-family:'Courier New', Courier, monospace;
+
+
+}
+
+p {
+
+    font-size: 14px;
+    color: #000000;
+    font-weight: 300;
+    text-align: left;
+    margin-bottom: 15px;
+    font-family:'Courier New', Courier, monospace;
+
+
+}
+
+
+  a:link {
+    color: darkblue;
+  }
+  
+
+  /* mouse over link */
+  a:hover {
+    color: darkcyan;
+  }
+  
+  /* selected link */
+  a:active {
+    color: darkblue;
+  }
+
+  .projects {
+
+    padding-left: 4%;
+
+  }
+
+  #projectcontainer {
+
+    padding-bottom: 20%;
+
+  }
+  
+  .projectimage {
+
+    border-radius: 10px;
+
+  }
