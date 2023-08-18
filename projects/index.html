@@ -11,7 +11,8 @@
     </head>
     <body>
         
-        <span id="title"><h1>The Duck</h1></span>
+        <h1 id="title1"></h1>
+        <span id="cursor"><p style="text-align: center;" id="description"></p></span>
         <br>
         <h3><a href="../">/home</a></h3>
         <div tag="projectcontainer">
@@ -46,6 +47,25 @@
 
             </div>
         </div>
+        <script>
+            var ti = 0;
+            var di = 0;
+            var titletxt = 'The Duck'; /* The text */
+            var titlespeed = 100; /* The speed/duration of the effect in milliseconds */
+            var desctxt = 'Avid gamer and programmer, DMs are open.'; /* The text */
+            var descspeed = 50; /* The speed/duration of the effect in milliseconds */
 
+            function typeWriter() {
+              if (ti < titletxt.length) {
+                document.getElementById("title1").innerHTML += titletxt.charAt(ti);
+                ti++;
+                setTimeout(typeWriter, titlespeed);
+              }else if (di < desctxt.length) {
+                document.getElementById("description").innerHTML += desctxt.charAt(di);
+                di++;
+                setTimeout(typeWriter, descspeed);
+              }
+            }
+        </script>
     </body>
 </html>
