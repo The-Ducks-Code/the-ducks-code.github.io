@@ -1,12 +1,12 @@
 html {
 
-    background-color:gainsboro;
+    background-color:black;
 }
 
 h1 {
 
     font-size: 50px;
-    color: #000000;
+    color: green;
     text-transform: uppercase;
     font-weight: 300;
     text-align: center;
@@ -18,7 +18,7 @@ h1 {
 h2 {
 
     font-size: 30px;
-    color: #000000;
+    color: green;
     font-weight: 300;
     text-align: left;
     margin-bottom: 15px;
@@ -29,7 +29,7 @@ h2 {
 h3 {
 
     font-size: 25px;
-    color: #000000;
+    color: green;
     font-weight: 300;
     text-align: left;
     margin-bottom: 15px;
@@ -40,7 +40,7 @@ h3 {
 a {
 
     font-size: 17px;
-    color: #000000;
+    color: green;
     font-weight: 300;
     text-align: left;
     margin-bottom: 15px;
@@ -52,7 +52,7 @@ a {
 p {
 
     font-size: 14px;
-    color: #000000;
+    color: green;
     font-weight: 300;
     text-align: left;
     margin-bottom: 15px;
@@ -83,7 +83,19 @@ p {
 
   }
 
+  .infos {
+
+    padding-left: 4%;
+
+  }
+
   #projectcontainer {
+
+    padding-bottom: 20%;
+
+  }
+
+  #infocontainer {
 
     padding-bottom: 20%;
 
@@ -93,4 +105,25 @@ p {
 
     border-radius: 10px;
 
+  }
+
+  #cursor p::after {
+    content: "";
+    width: 7px;
+    height: 14px;
+    background: green;
+    display: inline-block;
+    animation: cursor-blink 1.5s steps(2) infinite;
+
+  }
+
+   #cursor p {
+    align-items: center;
+    gap: 2px;
+  }
+
+  @keyframes cursor-blink {
+    0% {
+      opacity: 0;
+    }
   }
