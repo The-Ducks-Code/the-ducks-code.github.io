@@ -9,23 +9,29 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="style.css">
     </head>
-    <body onload="typeWriter();">
+    <body class="crt" onload="typeWriter();">
         <h1 id="title1"></h1>
         <span id="cursor"><p style="text-align: center;" id="description"></p></span>
         <br>
         <h3><a href="/projects">/projects</a></h3>
         <h3><a href="/about">/about</a></h3>
+        <h3><a href="/blog">/blog</a></h3>
+
         <br>
         <div tag="infocontainer"><div class="infos">
-        <p>Hello, welcome to my little corner of this vast expanse we call the internet, I'm Declan (a.k.a. The Duck), a high school student who is into programming, gaming, heavy metal, and a bunch of other nerdy things.</p>
+        <p id="mbtitle"></p>
 
         <script>
             var ti = 0;
             var di = 0;
+            var mbi = 0;
             var titletxt = 'The Duck'; /* The text */
             var titlespeed = 100; /* The speed/duration of the effect in milliseconds */
             var desctxt = 'Avid gamer and programmer, DMs are open.'; /* The text */
             var descspeed = 50; /* The speed/duration of the effect in milliseconds */
+            var rbspeed = 50; /* The speed/duration of the effect in milliseconds */
+            var recentbs = "Hello, welcome to my little corner of this vast expanse we call the internet, I'm Declan (a.k.a. The Duck), a high school student who is into programming, gaming, heavy metal, and a bunch of other nerdy things."; /* The text */
+
 
             function typeWriter() {
               if (ti < titletxt.length) {
@@ -36,6 +42,10 @@
                 document.getElementById("description").innerHTML += desctxt.charAt(di);
                 di++;
                 setTimeout(typeWriter, descspeed);
+              }else if (mbi < recentbs.length) {
+                document.getElementById("mbtitle").innerHTML += recentbs.charAt(mbi);
+                mbi++;
+                setTimeout(typeWriter, recentbs);
               }
             }
         </script>
