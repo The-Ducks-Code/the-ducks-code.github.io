@@ -1,32 +1,19 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>JSON Test</title>
-</head>
+<html>
 <body>
-    <div id="myData"></div>
-    <script>
-        fetch('https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v2/?appid=730&key=558E787CCC7855347FADD4EB4B2160D5&steamid=76561199058891639')
-            .then(function (response) {
-                return response.json();
-            })
-            .then(function (data) {
-                appendData(data);
-            })
-            .catch(function (err) {
-                console.log('error: ' + err);
-            });
-        function appendData(data) {
-            var mainContainer = document.getElementById("myData");
-            for (var i = 0; i < data.length; i++) {
-                var div = document.createElement("div");
-                div.innerHTML = data.playerstats.stats.name;
-                mainContainer.appendChild(div);
-            }
-        }
-    </script>
+
+<h2>CSGO Stats</h2>
+<p id="demo"></p>
+
+<script>
+const xmlhttp = new XMLHttpRequest();
+xmlhttp.onload = function() {
+  const myObj = JSON.parse(this.responseText);
+  document.getElementById("demo").innerHTML = myObj.playerstats.stats[0].value;
+}
+xmlhttp.open("GET", "https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v2/?appid=730&key=6BB70E1CDE7E8C930E7B13ED828DAE51&steamid=76561199058891639");
+xmlhttp.send();
+</script>
+
 </body>
 </html>
