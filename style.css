@@ -6,7 +6,7 @@ html {
 h1 {
 
     font-size: 50px;
-    color: green;
+    color: rgb(0, 179, 0);;
     text-transform: uppercase;
     font-weight: 300;
     text-align: center;
@@ -18,7 +18,7 @@ h1 {
 h2 {
 
     font-size: 30px;
-    color: green;
+    color: rgb(0, 179, 0);;
     font-weight: 300;
     text-align: left;
     margin-bottom: 15px;
@@ -29,7 +29,7 @@ h2 {
 h3 {
 
     font-size: 25px;
-    color: green;
+    color: rgb(0, 179, 0);;
     font-weight: 300;
     text-align: left;
     margin-bottom: 15px;
@@ -40,7 +40,7 @@ h3 {
 a {
 
     font-size: 17px;
-    color: green;
+    color: rgb(0, 179, 0);;
     font-weight: 300;
     text-align: left;
     margin-bottom: 15px;
@@ -52,7 +52,7 @@ a {
 p {
 
     font-size: 14px;
-    color: green;
+    color: rgb(0, 179, 0);
     font-weight: 300;
     text-align: left;
     margin-bottom: 15px;
