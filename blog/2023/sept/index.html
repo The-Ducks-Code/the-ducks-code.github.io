@@ -4,25 +4,22 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>the-ducks-code/blog/2023</title>
+        <title>the-ducks-code/blog/2023/aug/18</title>
         <meta name="description" content="about page">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="../style.css">
+        <link rel="stylesheet" href="../../../style.css">
     </head>
     <body class="crt" onload="typeWriter();">
         <h1 id="title1"></h1>
-        <span id="cursor"><p style="text-align: center;" id="description"></p></span>
+        <p style="text-align: center;" id="description"></p>
         <br>
-        <h3><a href="../">/</a></h3>
+        <h3><a href="../../../">/</a><a href="../../"> blog </a><a href="../">/2023 </a></h3>
         <br>
         <div tag="infocontainer">
         <div class="infos">
-        <h2 id="mbtitle"></h2>
-        <br>
-        <a id="mbtext" href="2023/sept/29"></a>
         <h2 id="btitle"></h2>
         <br>
-        <a id="btext" href="2023"></a>
+        <span id="cursor"><a id="btext" href="29"></a></span>
         </div>
         </div>
         <br>
@@ -33,21 +30,14 @@
             var di = 0;
             var bi = 0;
             var bti = 0;
-            var mbi = 0;
-            var mbti = 0;
             var titletxt = 'The Duck'; /* The text */
             var titlespeed = 100; /* The speed/duration of the effect in milliseconds */
             var desctxt = 'Avid gamer and programmer, DMs are open.'; /* The text */
-            var descspeed = 20; /* The speed/duration of the effect in milliseconds */
-            var recentbs = 'Most Recent Blog'; /* The text */
-            var mrbspeed = 50; /* The speed/duration of the effect in milliseconds */
-            var mrecentbs = 'September 29, 2023'; /* The text */
-            var rbspeed = 50; /* The speed/duration of the effect in milliseconds */
-            var btitletxt = 'Blogs:'; /* The text */
-            var btitlespeed = 50; /* The speed/duration of the effect in milliseconds */
-            var btxt = '2023'; /* The text */
-            var btspeed = 50; /* The speed/duration of the effect in milliseconds */
-
+            var descspeed = 50; /* The speed/duration of the effect in milliseconds */
+            var btitletxt = 'Blogs: September 2023'; /* The text */
+            var btitlespeed = 100; /* The speed/duration of the effect in milliseconds */
+            var btxt = 'September 29, 2023'; /* The text */
+            var btspeed = 100; /* The speed/duration of the effect in milliseconds */
 
             function typeWriter() {
               if (ti < titletxt.length) {
@@ -58,14 +48,6 @@
                 document.getElementById("description").innerHTML += desctxt.charAt(di);
                 di++;
                 setTimeout(typeWriter, descspeed);
-              }else if (mbi < recentbs.length) {
-                document.getElementById("mbtitle").innerHTML += recentbs.charAt(mbi);
-                mbi++;
-                setTimeout(typeWriter, recentbs);
-              }else if (mbti < mrecentbs.length) {
-                document.getElementById("mbtext").innerHTML += mrecentbs.charAt(mbti);
-                mbti++;
-                setTimeout(typeWriter, mrecentbs);
               }else if (bi < btitletxt.length) {
                 document.getElementById("btitle").innerHTML += btitletxt.charAt(bi);
                 bi++;
