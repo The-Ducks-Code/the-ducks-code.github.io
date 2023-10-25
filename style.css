@@ -5,7 +5,7 @@ html {
 
 h1 {
 
-    font-size: 50px;
+    font-size: clamp(100%, 1rem + 2vw, 60px);
     color: rgb(0, 179, 0);;
     text-transform: uppercase;
     font-weight: 300;
@@ -17,7 +17,7 @@ h1 {
 
 h2 {
 
-    font-size: 30px;
+    font-size: clamp(100%, 1rem + 2vw, 35px);
     color: rgb(0, 179, 0);;
     font-weight: 300;
     text-align: left;
@@ -28,7 +28,7 @@ h2 {
 
 h3 {
 
-    font-size: 25px;
+    font-size: clamp(100%, 1rem + 2vw, 20px);
     color: rgb(0, 179, 0);;
     font-weight: 300;
     text-align: left;
@@ -39,7 +39,7 @@ h3 {
 
 a {
 
-    font-size: 17px;
+    font-size: clamp(100%, 1rem + 2vw, 15px);
     color: rgb(0, 179, 0);;
     font-weight: 300;
     text-align: left;
@@ -51,7 +51,7 @@ a {
 
 p {
 
-    font-size: 14px;
+    font-size: clamp(100%, 1rem + 2vw, 20px);
     color: rgb(0, 179, 0);
     font-weight: 300;
     text-align: left;
@@ -63,23 +63,32 @@ p {
 
 
   a:link {
-    color: darkblue;
+    color: rgb(0, 179, 0);
   }
   
 
   /* mouse over link */
   a:hover {
-    color: darkcyan;
+    color: rgb(0, 136, 0);
   }
   
   /* selected link */
   a:active {
-    color: darkblue;
+    color: rgb(0, 179, 0);
+  }
+
+  ::selection {
+    font-size: 2em;
+    color: yellow;
   }
 
   .projects {
 
     padding-left: 4%;
+    border-left: 2px solid rgb(0, 179, 0);
+    border-right: 2px solid rgb(0, 179, 0);
+    border-bottom: 2px solid rgb(0, 179, 0);
+    padding-bottom:2%;
 
   }
 
@@ -93,6 +102,7 @@ p {
 
     padding-bottom: 20%;
 
+
   }
 
   #infocontainer {
@@ -104,7 +114,7 @@ p {
   .projectimage {
 
     border-radius: 10px;
-
+    border: 2px solid rgb(0, 179, 0);
   }
 
   #cursor p::after {
@@ -258,33 +268,6 @@ p {
       text-shadow: 2.6208764473832513px 0 1px rgba(0,30,255,0.5), -2.6208764473832513px 0 1px rgba(255,0,80,0.3), 0 0 3px;
     }
   }
-  .crt::after {
-    content: " ";
-    display: block;
-    position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    background: rgba(18, 16, 16, 0.1);
-    opacity: 0;
-    z-index: 2;
-    pointer-events: none;
-    animation: flicker 0.15s infinite;
-  }
-  .crt::before {
-    content: " ";
-    display: block;
-    position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06));
-    z-index: 2;
-    background-size: 100% 5px, 3px 100%;
-    pointer-events: none;
-  }
   .crt {
-    animation: textShadow 3.6s infinite;
+    animation: textShadow 20.6s infinite;
   }
