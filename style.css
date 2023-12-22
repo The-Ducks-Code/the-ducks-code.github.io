@@ -84,7 +84,8 @@ p {
 
   .embeds {
 
-    text-align: center
+    text-align: center;
+    margin: auto;
 
   }
 
