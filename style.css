@@ -82,6 +82,12 @@ p {
     color: yellow;
   }
 
+  .embeds {
+
+    text-align: center
+
+  }
+
   .projects {
 
     padding-left: 4%;
