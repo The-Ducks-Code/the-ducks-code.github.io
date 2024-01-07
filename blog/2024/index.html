@@ -4,27 +4,20 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>the-ducks-code/blog</title>
+        <title>the-ducks-code/blog/2024</title>
         <meta name="description" content="about page">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="../style.css">
+        <link rel="stylesheet" href="../../style.css">
     </head>
     <body class="crt" onload="typeWriter();">
-        <h1 id="title1"></h1>
-        <span id="cursor"><p style="text-align: center;" id="description"></p></span>
+      <span id="cursor"><h1 id="title1"></h1>
+        <p style="text-align: center;" id="description"></p>
         <br>
-        <h3><a href="../">/</a><a href="">blog</a></h3>
+        <h3><a href="../../">/</a><a href="../">blog</a><a href="">/2024</a></h3>
         <br>
         <div tag="infocontainer">
         <div class="infos">
-        <h2 id="mbtitle"></h2>
-        <br>
-        <a id="mbtext" href="2024/jan/6"></a>
-        <h2 id="btitle"></h2>
-        <br>
-        <a id="btext" href="2023"></a>
-        <br>
-        <a id="ctext" href="2024"></a>
+        <a id="btext" href="jan"></a>
         </div>
         </div>
         <br>
@@ -36,17 +29,10 @@
             var bi = 0;
             var bti = 0;
             var cti = 0;
-            var mbi = 0;
-            var mbti = 0;
             var titletxt = 'The Duck';
             var desctxt = 'Quack Quack';
-            var recentbs = 'Most Recent Blog:';
-            var mrecentbs = 'January 6, 2024'; 
-            var btitletxt = 'Blogs:';
-            var btxt = '2023';
-            var ctxt = '2024';
+            var btxt = 'January';
             var textspeed = 20; /* Text Speed */
-
 
             function typeWriter() {
               if (ti < titletxt.length) {
@@ -57,25 +43,9 @@
                 document.getElementById("description").innerHTML += desctxt.charAt(di);
                 di++;
                 setTimeout(typeWriter, textspeed);
-              }else if (mbi < recentbs.length) {
-                document.getElementById("mbtitle").innerHTML += recentbs.charAt(mbi);
-                mbi++;
-                setTimeout(typeWriter, textspeed);
-              }else if (mbti < mrecentbs.length) {
-                document.getElementById("mbtext").innerHTML += mrecentbs.charAt(mbti);
-                mbti++;
-                setTimeout(typeWriter, textspeed);
-              }else if (bi < btitletxt.length) {
-                document.getElementById("btitle").innerHTML += btitletxt.charAt(bi);
-                bi++;
-                setTimeout(typeWriter, textspeed);
               }else if (bti < btxt.length) {
                 document.getElementById("btext").innerHTML += btxt.charAt(bti);
                 bti++;
-                setTimeout(typeWriter, textspeed);
-              }else if (cti < ctxt.length) {
-                document.getElementById("ctext").innerHTML += ctxt.charAt(cti);
-                cti++;
                 setTimeout(typeWriter, textspeed);
               }
             }
