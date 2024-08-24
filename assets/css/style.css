@@ -278,3 +278,31 @@ p {
   .crt {
     animation: textShadow 20.6s infinite;
   }
+
+  .large-image {
+    border-radius: 4px;
+     box-shadow: 1px 1px 3px 3px rgb(255, 255, 255);;
+
+ 
+  }
+
+  .large {
+    position: absolute;
+    display:none;
+
+  }
+
+  .card:hover .large {
+    max-width: 25%;
+    min-width: 25%;
+    padding-right: 10%;
+    display:inherit;
+
+  }
+
+  .container{
+
+  padding-right:15%;
+
+
+  }

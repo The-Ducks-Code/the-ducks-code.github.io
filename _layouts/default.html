@@ -4,41 +4,31 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>the-ducks-code/about</title>
-        <meta name="description" content="about page">
+        <title>{{ site.title }} - {{ page.title }}</title>
+        <meta name="description" content="portfolio">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="../style.css">
-
+        <link rel="stylesheet" href="{{ "assets/css/style.css" | relative_url }}">
     </head>
     <body class="crt" onload="typeWriter();">
         <h1 id="title1"></h1>
         <span id="cursor"><p style="text-align: center;" id="description"></p></span>
         <br>
-        <h3><a href="../">/</a><a href="">magic</a></h3>
-        <br>
-        <div tag="infocontainer">
-        <div class="infos">
-            <h1>Magic Collection:</h1>
-            <h2>Commander Decks:</h2>
-            <h3><a href="miku">Hatsune Miku: Drop the Mic (Feather, the Redeemed)</a></h3>
-            <h3><a href="raccoon">Animated Army Precon (Upgraded)</a></h3> 
-            <h3><a href="megatron">Megatron</a></h3>
-            <h3><a href="chaos">Chaos Incarnate Precon (Upgraded)</a></h3>
+        <h3><a href="/">/</a><a href={{ page.dir }}>{{page.title}}</a></h3>
+        
+        <h2>{{ page.title }}</h2>
 
-     
-     
-        </div>
-        </div>
-        <br>
-        <br>
-        <pre><a href="https://discord.gg/dNdyWEmWhA">My Discord Server</a>   <a href="https://github.com/The-Ducks-Code">GitHub</a>   <a href="mailto:duccman99@gmail.com">email</a></pre>
+        {{ content }}
         <script>
             var ti = 0;
             var di = 0;
+            var mbi = 0;
             var titletxt = 'The Duck'; /* The text */
             var titlespeed = 100; /* The speed/duration of the effect in milliseconds */
             var desctxt = 'Quack Quack'; /* The text */
             var descspeed = 50; /* The speed/duration of the effect in milliseconds */
+            var rbspeed = 50; /* The speed/duration of the effect in milliseconds */
+            var recentbs = ""; /* The text */
+
 
             function typeWriter() {
               if (ti < titletxt.length) {
@@ -49,8 +39,15 @@
                 document.getElementById("description").innerHTML += desctxt.charAt(di);
                 di++;
                 setTimeout(typeWriter, descspeed);
+              }else if (mbi < recentbs.length) {
+                document.getElementById("mbtitle").innerHTML += recentbs.charAt(mbi);
+                mbi++;
+                setTimeout(typeWriter, recentbs);
               }
             }
+            console.log("🦆");
         </script>
+
+        <pre style="padding-top:2%;"><a href="https://discord.gg/dNdyWEmWhA">My Discord Server</a>   <a href="https://github.com/The-Ducks-Code">GitHub</a>   <a href="mailto:duccman99@gmail.com">email</a></pre>
     </body>
 </html>
