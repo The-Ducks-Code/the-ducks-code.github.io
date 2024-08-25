@@ -5,7 +5,6 @@ title: "about"
 
 <div tag="infocontainer">
 <div class="infos">
-<p>More info about yours truly:</p>
 <br>
 <p>he/him</p>
 <br>
