@@ -20,24 +20,6 @@ title: "about"
 <br>
 <p>Favorite D&D class: wizard or rogue</p>
 <br>
-<script>
-
-    $(document).ready(function() {
- 
-        $.getJSON( "https://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0002/?key=CB35A41F1BF9FE42C5CEC3F3CEED1E7F&steamids=76561199058891639", function( response ) {
-        var items = [];
-        $.each( response, function( key, val ) {
-            items.push( "<li id='" + key + "'>" + val + "</li>" );
-        });
-        
-        $( "<ul/>", {
-            "class": "my-new-list",
-            html: items.join( "" )
-        }).appendTo( "body" );
-        }); 
-    });
-
-</script>
 
 </div>
 </div>
