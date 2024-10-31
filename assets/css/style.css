@@ -306,3 +306,35 @@ p {
 
 
   }
+
+  
+#boredring table {
+  background-color: #0b0b0b; /* makes the background pure white */
+  margin: 0 auto; /* centers the widget */
+  image-rendering: pixelated;
+  color: white;
+  border: 3px solid rgb(0, 179, 0);;
+}
+
+#boredring .webring-prev {
+  text-align:right;
+  font-family:'Courier New', Courier, monospace;
+}
+
+#boredring .webring-info {
+   text-align:center;
+   font-family:'Courier New', Courier, monospace;
+  }
+
+#boredring .webring-next {
+  text-align:left;
+  font-family:'Courier New', Courier, monospace;
+}
+
+#boredring a {
+  color: rgb(0, 179, 0);;
+}
+
+#boredring p {
+  font-family:'Courier New', Courier, monospace;
+}

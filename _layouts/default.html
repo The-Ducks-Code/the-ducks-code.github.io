@@ -7,6 +7,7 @@
         <title>{{ site.title }} - {{ page.title }}</title>
         <meta name="description" content="portfolio">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://webring.mesagrey.ca/webring/boredring.css">
         <link rel="stylesheet" href="{{ "assets/css/style.css" | relative_url }}">
         <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
       </head>
@@ -20,6 +21,8 @@
         <h2>{{ page.title }}</h2>
 
         {{ content }}
+
+
         <script>
             var ti = 0;
             var di = 0;
@@ -51,5 +54,10 @@
         </script>
 
         <pre style="padding-top:2%;"><a href="https://discord.gg/dNdyWEmWhA">My Discord Server</a>   <a href="https://github.com/The-Ducks-Code">GitHub</a>   <a href="mailto:duccman99@gmail.com">email</a></pre>
-    </body>
+        <br>
+        <div id='boredring'>
+          <script type="text/javascript" src="https://webring.mesagrey.ca/webring/boredring-variables.js"></script>
+          <script type="text/javascript" src="https://webring.mesagrey.ca/webring/boredring-widget.js"></script>
+      </div>
+      </body>
 </html>
