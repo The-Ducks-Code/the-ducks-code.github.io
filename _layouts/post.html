@@ -8,6 +8,8 @@
         <meta name="description" content="portfolio">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="{{ "assets/css/style.css" | relative_url }}">
+        <script src="{{ "assets/js/random.js" | relative_url }}"></script>
+
 
       </head>
     <body class="crt" onload="typeWriter();">
@@ -27,7 +29,7 @@
             var mbi = 0;
             var titletxt = 'The Duck'; /* The text */
             var titlespeed = 100; /* The speed/duration of the effect in milliseconds */
-            var desctxt = 'Quack Quack'; /* The text */
+            var desctxt = sentences[Math.floor(Math.random()*sentences.length)]; /* The text */
             var descspeed = 50; /* The speed/duration of the effect in milliseconds */
             var rbspeed = 50; /* The speed/duration of the effect in milliseconds */
             var recentbs = ""; /* The text */

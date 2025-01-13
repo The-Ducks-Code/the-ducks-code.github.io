@@ -16,8 +16,11 @@ var sentences = new Array(
     "🦆",
     "“Some of those that work forces, are the same the burn crosses” - Killing In The Name, Rage Against The Machine",
     "“Every time you drop the bomb, You kill the god your child has born” - Boom!, System of A Down",
-    "Free Palestine",
+    "Free Palestine 🇵🇸",
     "“Capitalism unchecked is not a democratic system.” - Serj Tankian",
     "KCUD EHT",
-    "The humans are trying to turn us against the geese, when we should be turning on the humans instead."
+    "The humans are trying to turn us against the geese, when we should be turning on the humans instead.",
+    "“From each according to his ability, to each according to his needs.” - Karl Marx",
+    "↑ ↑ ↓ ↓ ← → ← → B A"
+
     );

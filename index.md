@@ -3,13 +3,14 @@ layout: default
 title: ""
 ---
 
-<h3>Pages:</h3>
+<h3>INDEX:</h3>
 <h3><a href="/about">/about</a></h3>
 <h3><a href="/blog">/blog</a></h3>
 <h3><a href="/magic-decks">/magic-decks</a></h3>
+<h3><a href="/music">/music</a></h3>
 <br>
 <div tag="projectcontainer">
-    <h2>Projects:</h2>
+    <h2>PROJECTS:</h2>
     <br>
             <div class="projects">
             <h3>Void Bullet:</h3>
@@ -44,7 +45,7 @@ title: ""
             <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3036651987">Steam Workshop Post</a>
         </div>
         </div>
-<h2>Projects w/ other people:</h2>
+<h2>PROJECTS W/ OTHER PEOPLE:</h2>
 <div tag="projectcontainer">
             <div class="projects">
             <h3>Superseeded:</h3>
