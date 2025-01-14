@@ -21,6 +21,13 @@ var sentences = new Array(
     "KCUD EHT",
     "The humans are trying to turn us against the geese, when we should be turning on the humans instead.",
     "“From each according to his ability, to each according to his needs.” - Karl Marx",
-    "↑ ↑ ↓ ↓ ← → ← → B A"
-
+    "↑ ↑ ↓ ↓ ← → ← → B A",
+    "uackqay",
+    "--.- ..- .- -.-. -.- / --.- ..- .- -.-. -.-",
+    "01110001 01110101 01100001 01100011 01101011 00100000 01110001 01110101 01100001 01100011 01101011",
+    "cXVhY2sgcXVhY2s=",
+    "OF2WCY3LEBYXKYLDNM======",
+    "V8pgvZMMWT2Kcmg",
+    "jfzxp jfzxp",
+    "dhnpx dhnpx"
     );

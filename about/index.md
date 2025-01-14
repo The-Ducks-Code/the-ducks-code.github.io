@@ -20,6 +20,6 @@ title: "about"
 <br>
 <p class="projects">Favorite D&D class: Wizard or Rogue</p>
 <br>
-<p class="projects">Other Stuff about me:<p>
+<p class="projects">Other Stuff about me: socialism is cool, fuck trump, im bi which is cool, theatre is sick, metal music is peak, idk what else to write here, bye.<p>
 
 
