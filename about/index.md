@@ -22,5 +22,5 @@ title: "about"
 <br>
 <p class="projects">Other Stuff about me: socialism is cool, fuck trump, im bi which is cool, theatre is sick, metal music is peak, idk what else to write here, bye.<p>
 
-<p class="projects">Get educated. <a href="https://www.socialism101.com/">https://www.socialism101.com/</a> (I did not create this resource but it explains socialism in simpler terms and I highly reccomend giving it a read if you don't understand socialism.)<p>
+<p class="projects">Get educated. <a href="https://www.socialism101.com/">https://www.socialism101.com/</a> (I did not create this resource but it explains socialism in simpler terms and I highly recommend giving it a read if you don't understand socialism.)<p>
 
