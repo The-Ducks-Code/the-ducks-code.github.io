@@ -10,7 +10,7 @@ title: "about"
 <br>
 <p class="projects">How to contact me: Discord: theduck666, email:duccman99@gmail.com, <a href="https://steamcommunity.com/id/the-duck-quack-quack/">steam</a>.</p>
 <br>
-<p class="projects">Before you interact with me know: I support Palestine, I support all LGBQT+ rights and people, I support furries, I am pro abortion rights, I am pro Cuba and I am a socialist, I despise Trump and the United States Republican Party, and still heavily dislike the United States Democratic Party. Freedom of speech is not the freedom to be hateful.</p>
+<p class="projects">Before you interact with me know: I support Palestine, I support all LGBQT+ rights and people, I support furries, I am pro abortion rights, I am a socialist, I despise Trump and the United States Republican Party, and still heavily dislike the United States Democratic Party. Freedom of speech is not the freedom to be hateful.</p>
 <br>
 <p class="projects">Hobbies: Gaming, Programming, being politcally active (not really a hobby ig lol), anime, mtg, D&D, collecting vinyls, and occasionally art.</p>
 <br>
