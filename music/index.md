@@ -16,6 +16,7 @@ title: "music"
             <h4>Released: 1991</h4>
             <h4>Date Acquired: 4/20/24</h4>
             <h4>Favorite Track: Lithium (A5)</h4>
+            <h4>My Album Rating: 8/10</h4>
         </div>
     </div>
     <p>Nirvana's 2nd studio alubm, I love this album, I listened to a lot of Alt Rock as a younger child and Nirvana is some of the best of it.</p>
@@ -32,6 +33,7 @@ title: "music"
             <h4>Released: 2015</h4>
             <h4>Date Acquired: 4/20/24</h4>
             <h4>Favorite Track: Heavydirtysoul (A1)</h4>
+            <h4>My Album Rating: 7/10</h4>
         </div>
     </div>
     <p>twenty one pilots' third studio album and their most popular one for sure. I bought this from a friend the same time I bought Nevermind, this wasn't the main reason I bought the records, but it definetly grew on me.</p>
@@ -48,6 +50,7 @@ title: "music"
             <h4>Released: 2015</h4>
             <h4>Date Acquired: 12/25/24</h4>
             <h4>Favorite Track: In The Wee Small Hours Of The Morning (A7)</h4>
+            <h4>My Album Rating: 6/10</h4>
         </div>
     </div>
     <p>A compilation record of some of Frank Sinatra's best songs, it definitely delivers that. I do want to eventually buy his actual albums starting with In The Wee Small Hours Of The Morning, but this was a Christmas present that I got alongside my record player so yk.</p>
@@ -64,6 +67,7 @@ title: "music"
             <h4>Released: 2024</h4>
             <h4>Date Acquired: 12/25/24</h4>
             <h4>Favorite Track: One Assassination Under God (A1)</h4>
+            <h4>My Album Rating: 6/10</h4>
         </div>
     </div>
     <p>My first introduction to Marilyn Manson and it was pretty good.</p>
@@ -80,6 +84,7 @@ title: "music"
             <h4>Released: 2011</h4>
             <h4>Date Acquired: 12/25/24</h4>
             <h4>Favorite Track: Moog City (A3)</h4>
+            <h4>My Album Rating: 8/10</h4>
         </div>
     </div>
     <p>Nostalgia at it's finest, this is a peak soundtrack.</p>
@@ -96,10 +101,28 @@ title: "music"
             <h4>Released: 2002</h4>
             <h4>Date Acquired: 1/11/25</h4>
             <h4>Favorite Track: Boom! (A4)</h4>
+            <h4>My Album Rating: 10/10</h4>
         </div>
     </div>
     <p>System Of A Down's 3rd studio album, and my favorite of theirs (although I love every single one of their alubms and they don't have any bad songs).</p>
     <a href="https://www.discogs.com/release/12642690-System-Of-A-Down-Steal-This-Album">Discogs link</a>
+</div>
+<br>
+<div class="projects">
+    <h3><u>Hybrid Theory</u></h3>
+    <div class="albumcontainer">
+        <img src="../images/lpht.png" width="20%" height="20%" class="projectimage">
+        <div class="alubmtext">
+            <h4>Artist: LINKIN PARK</h4>
+            <h4>Genre: Nu Metal</h4>
+            <h4>Released: 2000</h4>
+            <h4>Date Acquired: 1/18/25</h4>
+            <h4>Favorite Track: Crawling (A5)</h4>
+            <h4>My Album Rating: 9.5/10</h4>
+        </div>
+    </div>
+    <p>LINKIN PARK's first studio alubm, I love this album, it is definetly a classic. Highly recommend this album to anyone even thinking of trying to get into metal.</p>
+    <a href="https://www.discogs.com/release/5150478-Linkin-Park-Hybrid-Theory">Discogs link</a>
 </div>
 <h2>RECORDS WISHLIST:</h2>
 <p>(in no particular order)</p>
