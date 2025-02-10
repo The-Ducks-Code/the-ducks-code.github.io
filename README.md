@@ -1,2 +1,1 @@
-# the-ducks-code.github.io
- my portfolio
+https://the-duck.co
