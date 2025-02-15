@@ -124,6 +124,22 @@ title: "music"
     <p>LINKIN PARK's first studio alubm, I love this album, it is definetly a classic. Highly recommend this album to anyone even thinking of trying to get into metal.</p>
     <a href="https://www.discogs.com/release/5150478-Linkin-Park-Hybrid-Theory">Discogs link</a>
 </div>
+<div class="projects">
+    <h3><u>Queen – Greatest Hits</u></h3>
+    <div class="albumcontainer">
+        <img src="../images/queenhits.png" width="20%" height="20%" class="projectimage">
+        <div class="alubmtext">
+            <h4>Artist: Queen</h4>
+            <h4>Genre: Pop Rock/Classic Rock</h4>
+            <h4>Released: 2020</h4>
+            <h4>Date Acquired: 2/14/25</h4>
+            <h4>Favorite Track: Don't Stop Me Now (B3)</h4>
+            <h4>My Album Rating: 6/10</h4>
+        </div>
+    </div>
+    <p>Has a pretty good selection of Queen songs, thought I wish it had Under Pressure but otherwise it's a good compilation. I'm personally not the largest fan of complilations as I like to listen to albums in order, it is still good, I also really like the colors of the records themselves.</p>
+    <a href="https://www.discogs.com/release/16214031-Queen-Greatest-Hits-">Discogs link</a>
+</div>
 <h2>RECORDS WISHLIST:</h2>
 <p>(in no particular order)</p>
 <br>
