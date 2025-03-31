@@ -10,7 +10,7 @@ title: "about"
 <br>
 <p class="projects">How to contact me: Discord: theduck666, email:duccman99@gmail.com, <a href="https://steamcommunity.com/id/the-duck-quack-quack/">steam</a>.</p>
 <br>
-<p class="projects">Before you interact with me know: I support Palestine, I support all LGBQT+ rights and people, I support furries, I am pro abortion rights, I am a socialist, I despise Trump and the United States Republican Party, and still heavily dislike the United States Democratic Party. Freedom of speech is not the freedom to be hateful.</p>
+<p class="projects">Before you interact with me know: I support Palestine, I support all LGBQT+ rights and people, I support furries, I am pro abortion rights, I am a socialist and both major US parties suck. Freedom of speech is not the freedom to be hateful.</p>
 <br>
 <p class="projects">Hobbies: Gaming, Programming, being politcally active (not really a hobby ig lol), anime, mtg, D&D, collecting vinyls, and occasionally art.</p>
 <br>
@@ -20,11 +20,9 @@ title: "about"
 <br>
 <p class="projects">Favorite TV Show (non-anime): <a href="https://www.sonypictures.com/tv/breakingbad">Breaking Bad</a> or <a href="https://abc.com/primetime/lost/index?pn=index">Lost</a></p>
 <br>
-<p class="projects">Favorite book: <a href="https://www.penguinrandomhouse.com/books/209887/ready-player-one-by-ernest-cline/">Ready Player One</a></p>
-<br>
 <p class="projects">Favorite D&D class: Wizard or Rogue</p>
 <br>
-<p class="projects">Other Stuff about me: socialism is cool, fuck trump, im bi which is cool, theatre is sick, metal music is peak, idk what else to write here, bye.<p>
+<p class="projects">Other Stuff about me: socialism is cool, fuck trump, im bi which is cool ig, theatre is sick, metal music is peak, idk what else to write here, bye.<p>
 
 <p class="projects">Get educated. <a href="https://www.socialism101.com/">https://www.socialism101.com/</a> (I did not create this resource but it explains socialism in simpler terms and I highly recommend giving it a read if you don't understand socialism.)<p>
 
