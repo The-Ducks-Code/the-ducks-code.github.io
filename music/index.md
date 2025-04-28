@@ -140,6 +140,22 @@ title: "music"
     <p>Has a pretty good selection of Queen songs, thought I wish it had Under Pressure but otherwise it's a good compilation. I'm personally not the largest fan of complilations as I like to listen to albums in order, it is still good, I also really like the colors of the records themselves.</p>
     <a href="https://www.discogs.com/release/16214031-Queen-Greatest-Hits-">Discogs link</a>
 </div>
+<div class="projects">
+    <h3><u>Five Finger Death Punch – A Decade Of Destruction Volume 2</u></h3>
+    <div class="albumcontainer">
+        <img src="../images/5fdp.png" width="20%" height="20%" class="projectimage">
+        <div class="alubmtext">
+            <h4>Artist: Five Finger Death Punch</h4>
+            <h4>Genre: Nu Metal/Hard Rock</h4>
+            <h4>Released: 2020</h4>
+            <h4>Date Acquired: 4/20/25</h4>
+            <h4>Favorite Track: I Refuse (A4)</h4>
+            <h4>My Album Rating: 7/10</h4>
+        </div>
+    </div>
+    <p>I'm not the most into 5FDP but they are a good band and I got this for easter from my family (even tho im not religious lol). There's a good selection of songs from the band.</p>
+    <a href="https://www.discogs.com/release/16257747-Five-Finger-Death-Punch-A-Decade-Of-Destruction-Volume-2">Discogs link</a>
+</div>
 <h2>RECORDS WISHLIST:</h2>
 <p>(in no particular order)</p>
 <br>
