@@ -10,11 +10,11 @@ var sentences = new Array(
     "hl3 confirmed???",
     "“Man I loooove them balls.” - Kou Ichijo, Persona 4",
     "“Insert Quote”",
-    "idek what going on at that point",
+    "idek whats going on at that point",
     "huh-",
     "what if instead of the duck it was the freak and instead of-",
     "🦆",
-    "“Some of those that work forces, are the same the burn crosses” - Killing In The Name, Rage Against The Machine",
+    "“Some of those that work forces, are the same that burn crosses” - Killing In The Name, Rage Against The Machine",
     "“Every time you drop the bomb, You kill the god your child has born” - Boom!, System of A Down",
     "Free Palestine 🇵🇸",
     "“Capitalism unchecked is not a democratic system.” - Serj Tankian",
@@ -29,5 +29,6 @@ var sentences = new Array(
     "OF2WCY3LEBYXKYLDNM======",
     "V8pgvZMMWT2Kcmg",
     "jfzxp jfzxp",
-    "dhnpx dhnpx"
+    "dhnpx dhnpx",
+    "“but freedom doesn't recognize poverty” - Terms and Conditions, Seb Lowe"
     );
