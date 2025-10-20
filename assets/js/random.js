@@ -10,7 +10,7 @@ var sentences = new Array(
     "hl3 confirmed???",
     "“Man I loooove them balls.” - Kou Ichijo, Persona 4",
     "“Insert Quote”",
-    "idek whats going on at that point",
+    "idek whats going on at this point",
     "huh-",
     "what if instead of the duck it was the freak and instead of-",
     "🦆",
