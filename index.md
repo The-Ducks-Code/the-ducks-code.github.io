@@ -48,11 +48,19 @@ title: ""
 <h2>PROJECTS W/ OTHER PEOPLE:</h2>
 <div tag="projectcontainer">
             <div class="projects">
-            <h3>Superseeded:</h3>
-            <img src="../images/superseeded.png" width="20%" height="20%" class="projectimage">
-            <p>2D Platformer Shooter where you shoot seeds that I made at <a href="https://cruzhacks.com">CruzHacks</a> (And Won Second Place in Sustainability!!) with <a href="https://github.com/Camille-Leon">Camille Leon</a> to promote Sustainability and to try and get people to plant plants and trees.</p>
-            <a href="https://github.com/Camille-Leon/cruzhacks">Source Code</a>
-            </div>         
+                <h3>MESλREDUX:</h3>
+                <img src="../images/mesaredux.png" width="20%" height="20%" class="projectimage">
+                <p>Unblocked games website that is supposed to be a culmination of our groups work and talent.</p>
+                <a href="https://github.com/Bored-Entertainment/mesaredux">Source Code</a>
+                <a href="https://mesaredux.mesagrey.ca">Main Link</a>
+                <a href="https://mesaredux.the-duck.co">My Mirror</a>
+            </div> 
+            <div class="projects">
+                <h3>Superseeded:</h3>
+                <img src="../images/superseeded.png" width="20%" height="20%" class="projectimage">
+                <p>2D Platformer Shooter where you shoot seeds that I made at <a href="https://cruzhacks.com">CruzHacks</a> (And Won Second Place in Sustainability!!) with <a href="https://github.com/Camille-Leon">Camille Leon</a> to promote Sustainability and to try and get people to plant plants and trees.</p>
+                <a href="https://github.com/Camille-Leon/cruzhacks">Source Code</a>
+            </div>   
             <div class="projects">
                 <h3>Aquarium Evasion Nodeless:</h3>
                 <img src="../images/aquariumevasion.png" width="20%" height="20%" class="projectimage">

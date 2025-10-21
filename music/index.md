@@ -156,6 +156,22 @@ title: "music"
     <p>I'm not the most into 5FDP but they are a good band and I got this for easter from my family (even tho im not religious lol). There's a good selection of songs from the band.</p>
     <a href="https://www.discogs.com/release/16257747-Five-Finger-Death-Punch-A-Decade-Of-Destruction-Volume-2">Discogs link</a>
 </div>
+<div class="projects">
+    <h3><u>JER – Death of the Heart</u></h3>
+    <div class="albumcontainer">
+        <img src="../images/doth.png" width="20%" height="20%" class="projectimage">
+        <div class="alubmtext">
+            <h4>Artist: JER</h4>
+            <h4>Genre: Ska/Punk/Indie/Emo</h4>
+            <h4>Released: 2025</h4>
+            <h4>Date Acquired: 4/20/25</h4>
+            <h4>Favorite Track: The Way You Tune It Out (A2)</h4>
+            <h4>My Album Rating: 10/10</h4>
+        </div>
+    </div>
+    <p>PEAK, anti-capitalism, anti-racism, pro-lgbtq, Punk Ska. It's amazing, I wholeheartedly reccomend this album and this artist.</p>
+    <a href="https://www.discogs.com/release/34715838-Jer-Death-Of-The-Heart">Discogs link</a>
+</div>
 <h2>RECORDS WISHLIST:</h2>
 <p>(in no particular order)</p>
 <br>
