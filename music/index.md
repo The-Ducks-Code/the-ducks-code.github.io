@@ -164,7 +164,7 @@ title: "music"
             <h4>Artist: JER</h4>
             <h4>Genre: Ska/Punk/Indie/Emo</h4>
             <h4>Released: 2025</h4>
-            <h4>Date Acquired: 4/20/25</h4>
+            <h4>Date Acquired: 9/22/25</h4>
             <h4>Favorite Track: The Way You Tune It Out (A2)</h4>
             <h4>My Album Rating: 10/10</h4>
         </div>
