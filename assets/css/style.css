@@ -2,6 +2,9 @@ html {
 
     background-color:black;
 }
+@font-face {
+    font-family:BigBlue; src:url('bigblue.ttf');
+}
 
 h1 {
 
@@ -11,7 +14,7 @@ h1 {
     font-weight: 300;
     text-align: center;
     margin-bottom: 15px;
-    font-family:'Courier New', Courier, monospace;
+    font-family:BigBlue, monospace;
 
 }
 
@@ -22,7 +25,7 @@ h2 {
     font-weight: 300;
     text-align: left;
     margin-bottom: 15px;
-    font-family:'Courier New', Courier, monospace;
+    font-family:BigBlue, monospace;
 
 }
 
@@ -33,7 +36,7 @@ h3 {
     font-weight: 300;
     text-align: left;
     margin-bottom: 15px;
-    font-family:'Courier New', Courier, monospace;
+    font-family:BigBlue, monospace;
 
 }
 
@@ -44,7 +47,7 @@ h4 {
   font-weight: 300;
   text-align: left;
   margin-bottom: 15px;
-  font-family:'Courier New', Courier, monospace;
+    font-family:BigBlue, monospace;
 
 }
 
@@ -73,7 +76,7 @@ a {
     font-weight: 300;
     text-align: left;
     margin-bottom: 15px;
-    font-family:'Courier New', Courier, monospace;
+    font-family:BigBlue, monospace;
 
 
 }
@@ -85,7 +88,7 @@ p {
     font-weight: 300;
     text-align: left;
     margin-bottom: 15px;
-    font-family:'Courier New', Courier, monospace;
+    font-family:BigBlue, monospace;
 
 
 }
@@ -97,7 +100,7 @@ li {
   font-weight: 300;
   text-align: left;
   margin-bottom: 15px;
-  font-family:'Courier New', Courier, monospace;
+  font-family:BigBlue, monospace;
 
 
 }
@@ -359,17 +362,17 @@ li {
 
 #boredring .webring-prev {
   text-align:right;
-  font-family:'Courier New', Courier, monospace;
+  font-family:BigBlue, monospace;
 }
 
 #boredring .webring-info {
    text-align:center;
-   font-family:'Courier New', Courier, monospace;
+   font-family:BigBlue, monospace;
   }
 
 #boredring .webring-next {
   text-align:left;
-  font-family:'Courier New', Courier, monospace;
+  font-family:BigBlue, monospace;
 }
 
 #boredring a {
@@ -377,5 +380,5 @@ li {
 }
 
 #boredring p {
-  font-family: Courier, 'Courier New', monospace;
+    font-family:BigBlue, monospace;
 }
