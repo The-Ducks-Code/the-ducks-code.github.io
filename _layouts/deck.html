@@ -16,10 +16,29 @@
 
         <h1 id="title1"></h1>
         <span id="cursor"><p style="text-align: center;" id="description"></p></span>
+          <div class="title">
+            {% capture badges_marquee %}
+              {% for image in site.static_files %}
+                {% if image.path contains '/images/badges/' %}
+                  {% assign suffix = image.path | remove: '/images/badges/' %}
+                  {% unless suffix contains '/' %}
+                    <img id="badge" src="{{ image.path }}" alt="{{ image.name }}">
+                  {% endunless %}
+                {% endif %}
+              {% endfor %}
+            {% endcapture %}
+            <div class="badge-marquee badge-marquee--right" data-speed="7" style="padding-top:5px">
+              <div class="badge-track">
+                {{ badges_marquee }}
+                {{ badges_marquee }}
+              </div>
+            </div>
+          </div>
         <br>
         <h3><a href="/">/</a><a href="/magic-decks">magic-decks</a><a href={{ page.dir }}>/{{page.title}}</a></h3>
         
         <h2>{{ page.title }}</h2>
+        
 
         <div class="container" width="100%">{{ content }}</div>
         <script>

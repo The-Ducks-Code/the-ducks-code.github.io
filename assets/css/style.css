@@ -384,3 +384,55 @@ li {
 #boredring p {
     font-family:BigBlue, monospace;
 }
+
+.title {
+  height: 20px;
+}
+
+.badge-marquee {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.badge-marquee .badge-track {
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  gap: 10px;
+  will-change: transform;
+  animation: badge-marquee-slide-right linear infinite;
+  animation-duration: var(--badge-marquee-duration, 100s);
+}
+
+.badge-marquee .badge-track img {
+  flex: 0 0 auto;
+  height: auto;
+}
+
+.badge-marquee--right .badge-track {
+  transform: translateX(-70%);
+}
+
+@keyframes badge-marquee-slide-right {
+  0% {
+    transform: translateX(-70%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.box {
+  background-color: #191919;
+  border: 1px solid #ff4500;
+  padding: 8px;
+  margin-bottom: 8px;
+  scrollbar-width: thin;
+}
+img {
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+    image-rendering: -webkit-optimize-contrast;
+}

@@ -19,8 +19,8 @@
           <div class="title">
             {% capture badges_marquee %}
               {% for image in site.static_files %}
-                {% if image.path contains '/assets/images/badges/' %}
-                  {% assign suffix = image.path | remove: '/assets/images/badges/' %}
+                {% if image.path contains '/images/badges/' %}
+                  {% assign suffix = image.path | remove: '/images/badges/' %}
                   {% unless suffix contains '/' %}
                     <img id="badge" src="{{ image.path }}" alt="{{ image.name }}">
                   {% endunless %}
