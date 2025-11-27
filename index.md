@@ -52,7 +52,7 @@ title: ""
                 <img src="../images/mesaredux.png" width="20%" height="20%" class="projectimage">
                 <p>Unblocked games website that is supposed to be a culmination of our groups work and talent.</p>
                 <a href="https://github.com/Bored-Entertainment/mesaredux">Source Code</a>
-                <a href="https://mesaredux.mesagrey.ca">Main Link</a>
+                <a href="https://mesaredux.com">Main Link</a>
                 <a href="https://mesaredux.the-duck.co">My Mirror</a>
             </div> 
             <div class="projects">
