@@ -4,7 +4,8 @@ title: "music"
 ---
 <div tag="projectcontainer">
 
-<h2>RECORDS I OWN:</h2>
+<h2>>cd records</h2>
+<h2>>ls</h2>
 <br>
 <div class="projects">
     <h3><u>Nevermind</u></h3>
@@ -172,8 +173,8 @@ title: "music"
     <p>PEAK, anti-capitalism, anti-racism, pro-lgbtq, Punk Ska. It's amazing, I wholeheartedly reccomend this album and this artist.</p>
     <a href="https://www.discogs.com/release/34715838-Jer-Death-Of-The-Heart">Discogs link</a>
 </div>
-<h2>RECORDS WISHLIST:</h2>
-<p>(in no particular order)</p>
+<h2>>cd wishlist</h2>
+<h2>>ls</h2>
 <br>
 <ul>
 <li>Rage Against The Machine - Rage Against The Machine</li>

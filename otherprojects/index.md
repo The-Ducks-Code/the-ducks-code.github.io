@@ -1,7 +1,9 @@
 ---
 layout: default
-title: "about"
+title: "otherprojects"
 ---
+<h2>>cd otherprojects</h2>
+<h2>>ls</h2>
 <div tag="projectcontainer">
     <div class="projects">
         <h3>Filegrounds:</h3>

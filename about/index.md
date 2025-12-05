@@ -2,7 +2,8 @@
 layout: default
 title: "about"
 ---
-
+<h2>>cd about</h2>
+<h2>>ls</h2>
 <div tag="infocontainer">
 <div class="infos">
 <br>
