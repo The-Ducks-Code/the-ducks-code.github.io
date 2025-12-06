@@ -158,11 +158,10 @@ li {
 
   }
 
-  #projectcontainer {
+  .projectcontainer {
 
-    padding-bottom: 20%;
-    padding-left: 4%;
-    padding-right: 4%;
+    padding-bottom: 1%;
+    padding-top: 1%;
 
   }
 
