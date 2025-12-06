@@ -17,14 +17,18 @@ title: ""
     <h3>Void Bullet:</h3>
     <img src="../images/voidbullet.png" width="15%" height="15%" class="projectimage">
     <p>W.I.P. roguelike game I am developing about a guy who found himself in the <b>VOID</b> and was attacked.</p>
-    <a href="https://the-duck99.itch.io/void-bullet">Download it Here</a>
+    <div class="links"> 
+        <a href="https://the-duck99.itch.io/void-bullet" class="link">Download it Here</a>
+    </div>
 </div>
     <div class="projects">
         <h3>You Can Have Only One:</h3>
         <img src="../images/ychoo.png" width="15%" height="15%" class="projectimage">
         <p>Small clicker game I made for a friends game jam. (Fun Fact: I was the only submission)</p>
-        <a href="https://github.com/the-ducks-code/YCHOO">Source Code</a>
-        <a href="/YCHOO/">Play it Here</a>
+        <div class="links"> 
+            <a href="https://github.com/the-ducks-code/YCHOO" class="link">Source Code</a>
+            <a href="/YCHOO/" class="link">Play it Here</a>
+        </div>
     </div>
     <div class="projects">
     <h3>Phase Jump:</h3>
@@ -34,16 +38,18 @@ title: ""
         <h3>Custom DVD Bouncer:</h3>
         <img src="../images/DVD.png" width="15%" height="15%" class="projectimage">
         <p>A program that makes a DVD logo bounce around your desktop. (first program I've made in C++)</p>
-        <a href="https://github.com/The-Ducks-Code/CDVDB">Source Code</a>
-        <br>
-        <br>
+        <div class="links"> 
+            <a href="https://github.com/The-Ducks-Code/CDVDB" class="link">Source Code</a>
+        </div>
     </div>
     <div class="projects">
     <h3>CTF_2COMPANY:</h3>
     <img src="../images/2COMPANY.jpg" width="15%" height="15%" class="projectimage">
     <p>TF2 CTF map I made for the <a href="https://tf2maps.net/threads/72hr-hour-jam-2023.50107/">TF2MAPS.net 72 Hour Jam 2023</a></p>
-    <a href="https://tf2maps.net/downloads/ctf_2company.16233/">TF2MAPS.net Post</a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3036651987">Steam Workshop Post</a>
+    <div class="links"> 
+        <a href="https://tf2maps.net/downloads/ctf_2company.16233/" class="link">TF2MAPS.net Post</a>
+        <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3036651987" class="link">Steam Workshop Post</a>
+    </div>
 </div>
 </div>
 <div tag="projectcontainer">
@@ -53,23 +59,28 @@ title: ""
         <h3>MESλREDUX:</h3>
         <img src="../images/mesaredux.png" width="20%" height="20%" class="projectimage">
         <p>Unblocked games website that is supposed to be a culmination of our groups work and talent.</p>
-        <a href="https://github.com/Bored-Entertainment/mesaredux">Source Code</a>
-        <a href="https://mesaredux.com">Main Link</a>
-        <a href="https://mesaredux.the-duck.co">My Mirror</a>
+        <div class="links"> 
+            <a href="https://github.com/Bored-Entertainment/mesaredux" class="link">Source Code</a>
+            <a href="https://mesaredux.com" class="link">Main Link</a>
+            <a href="https://mesaredux.the-duck.co" class="link">My Mirror</a>
+        </div>
     </div> 
     <div class="projects">
         <h3>Superseeded:</h3>
         <img src="../images/superseeded.png" width="20%" height="20%" class="projectimage">
         <p>2D Platformer Shooter where you shoot seeds that I made at <a href="https://cruzhacks.com">CruzHacks</a> (And Won Second Place in Sustainability!!) with <a href="https://github.com/Camille-Leon">Camille Leon</a> to promote Sustainability and to try and get people to plant plants and trees.</p>
-        <a href="https://github.com/Camille-Leon/cruzhacks">Source Code</a>
+        <div class="links"> 
+            <a href="https://github.com/Camille-Leon/cruzhacks" class="link">Source Code</a>
+        </div>
     </div>   
     <div class="projects">
         <h3>Aquarium Evasion Nodeless:</h3>
         <img src="../images/aquariumevasion.png" width="20%" height="20%" class="projectimage">
         <p>Small endless game I helped make with some friends at a Hackathon (version that doesn't require a node.js server)</p>
-        <a href="https://github.com/The-Ducks-Code/AquariumEvasionNodeless">Source Code</a>
-        <a href="/AquariumEvasionNodeless/">Play it Here</a>
+        <div class="links"> 
+            <a href="https://github.com/The-Ducks-Code/AquariumEvasionNodeless" class="link">Source Code</a>
+            <a href="/AquariumEvasionNodeless/" class="link">Play it Here</a>
+        </div>
     </div>                
 </div>
-<br>
 <h3><a href="/otherprojects">/otherprojects</a></h3>

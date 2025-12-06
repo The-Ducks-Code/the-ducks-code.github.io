@@ -24,7 +24,7 @@
                 {% if image.path contains '/images/badges/' %}
                   {% assign suffix = image.path | remove: '/images/badges/' %}
                   {% unless suffix contains '/' %}
-                    <img id="badge" src="{{ image.path }}" alt="{{ image.name }}">
+                    <img id="badge" src="{{ image.path }}" alt="{{ image.name }}" width="132px" height="46.5px">
                   {% endunless %}
                 {% endif %}
               {% endfor %}
@@ -37,6 +37,8 @@
             </div>
           </div>
         <br>
+        <br>
+        <div id="main">
         <h3><a href="/">/</a><a href="/blog">blog</a><a href={{ page.dir }}>/{{page.title}}</a></h3>
         
         <h2>>cat {{ page.title }}.txt</h2>
@@ -73,6 +75,15 @@
         </script>
     </div></div>
 
-        <pre style="padding-top:2%;"><a href="https://discord.gg/dNdyWEmWhA">discord</a>   <a href="https://github.com/The-Ducks-Code">github</a>   <a href="mailto:duccman99@gmail.com">email</a></pre>
+        <div id="contact">
+          <a href="https://discord.gg/dNdyWEmWhA" class="link">discord</a>
+          <a href="https://github.com/The-Ducks-Code" class="link">github</a>
+          <a href="mailto:duccman99@gmail.com" class="link">email</a>
+        </div> 
+        <div id='boredring'>
+          <script type="text/javascript" src="https://webring.mesagrey.ca/webring/boredring-variables.js"></script>
+          <script type="text/javascript" src="https://webring.mesagrey.ca/webring/boredring-widget.js"></script>
+        </div>
+      </div>
     </body>
 </html>

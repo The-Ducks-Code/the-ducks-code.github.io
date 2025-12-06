@@ -1,6 +1,12 @@
 html {
 
     background-color:black;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+#main {
+    padding-left:1%;
+    padding-right:1%;
 }
 @font-face {
     font-family:BigBlue; src:url('bigblue.ttf');
@@ -8,7 +14,7 @@ html {
 
 h1 {
 
-    font-size: clamp(100%, 1rem + 2vw, 60px);
+    font-size: clamp(100%, 1rem + 2vw, 140px);
     color: rgb(0, 179, 0);;
     text-transform: uppercase;
     font-weight: 300;
@@ -154,7 +160,8 @@ li {
   #projectcontainer {
 
     padding-bottom: 20%;
-
+    padding-left: 4%;
+    padding-right: 4%;
 
   }
 
@@ -479,3 +486,11 @@ img {
     image-rendering: -webkit-optimize-contrast;
 }
 
+#contact {
+  margin:auto;
+  padding-top:1%;
+}
+
+.link {
+  margin-right: 15px;
+}
