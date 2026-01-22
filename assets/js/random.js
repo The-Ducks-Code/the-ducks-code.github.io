@@ -30,5 +30,10 @@ var sentences = new Array(
     "V8pgvZMMWT2Kcmg",
     "jfzxp jfzxp",
     "dhnpx dhnpx",
-    "“but freedom doesn't recognize poverty” - Terms and Conditions, Seb Lowe"
+    "“but freedom doesn't recognize poverty” - Terms and Conditions, Seb Lowe",
+    "“A man who stands for nothing will fall for anything” - Malcolm X",
+    "FUCK AI",
+    "Socialism or Barbarism",
+    "Say YES to Communism",
+    "The liberation of all oppressed groups, whether they be women, queer, trans, black, brown, indigenous, disabled, or any other minority under oppression, requires the final breath of capitalism to be exhaled and the liberating fresh air of socialism to be inhaled.",
     );
