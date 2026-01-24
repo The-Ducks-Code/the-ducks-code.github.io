@@ -8,7 +8,6 @@ title: ""
     <h3>><a href="/about">/about</a></h3>
     <h3>><a href="/blogs">/blog</a></h3>
     <h3>><a href="/collections">/collections</a></h3>
-    <h3>><a href="/reviews">/reviews</a></h3>
 </ul>
 <div class="projectcontainer">
     <h2>>cd projects</h2>
