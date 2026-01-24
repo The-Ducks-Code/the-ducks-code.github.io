@@ -1,10 +1,10 @@
 ---
-layout: deck
+layout: collection
 title: "animated-army-upgraded"
 date:   2024-8-23
 categories: deck
 ---
 
-<a href="https://www.moxfield.com/decks/vOoODbwKoUiLK3oELwqzVw">Moxfield Link</a>
-<br>
+<a href="https://www.moxfield.com/decks/vOoODbwKoUiLK3oELwqzVw">moxfield link</a>
+<br><br>
 I got the Animated Army precon for my birthday this year and decided to add a couple things I already owned into it like this German copy of <a class="card" href="https://scryfall.com/card/mh3/236/de/bewaldete-gebirgsausl%C3%A4ufer">Wooded Foothills<span  class="large"><img class="large-image" width="50%" height="50%" src="https://cards.scryfall.io/large/front/5/e/5e53b493-73bd-4268-8494-803e181fb893.jpg"></span></a> I got while in Germany this summer, or this copy of <a class="card" href="https://scryfall.com/card/sld/805/elvish-mystic">Elvish Mystic<span  class="large"><img class="large-image" width="50%" height="50%" src="https://cards.scryfall.io/large/front/a/c/acbe8763-1373-49f8-b4a6-dd5984b1d25f.jpg"></span></a> from the <a href="https://secretlair.wizards.com/us/en/product/965728/secret-lair-x-hatsune-miku-sakura-superstar-en">Hatsune Miku: Sakura Superstar: Secret Lair Drop.</a> Overall it's basically just the precon with a few minor additions that I thought would improve it a bit.

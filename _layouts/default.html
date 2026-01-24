@@ -13,7 +13,6 @@
         <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
       </head>
     <body class="crt" onload="typeWriter();">
-
         <h1 id="title1"></h1>
         <span id="cursor"><p style="text-align: center;" id="description"></p></span>
         <br>
@@ -38,9 +37,9 @@
         <br>
         <br>
         <div id="main">
-        <h3><a href="/">/</a><a href={{ page.dir }}>{{page.title}}</a></h3>
-        {{ content }}
+        {% include breadcrumbs.html %}
 
+        {{ content }}
 
         <script>
             var ti = 0;

@@ -31,6 +31,14 @@ theme: minima
 plugins:
   - jekyll-feed
 
+collections:
+  blogs:
+    permalink: /blogs/:path/
+    output: true
+  magic-decks:
+    permalink: /collections/magic-decks/:path/
+    output: true
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

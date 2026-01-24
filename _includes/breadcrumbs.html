@@ -1,0 +1,15 @@
+<br>
+<br>
+<div id="breadcrumbs">
+  ><a href="/">root</a>
+  {%- assign crumbs = page.url | remove:'/index.html' | split: '/' -%}
+  {%- for crumb in crumbs -%}
+    {%- if crumb != '' -%}
+      {%- if forloop.last -%}
+      /{{ page.title }}
+      {%- else -%}
+      /<a href="{% assign crumb_limit = forloop.index %}{% capture crumb_path %}{% for c in crumbs limit: crumb_limit %}{{ c }}/{% endfor %}{% endcapture %}{{ crumb_path | replace: '//', '/' }}">{{ crumb }}</a>
+      {%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+</div>

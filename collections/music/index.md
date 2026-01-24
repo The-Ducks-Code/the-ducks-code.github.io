@@ -4,13 +4,13 @@ title: "music"
 ---
 <div tag="projectcontainer">
 
-<h2>>cd records</h2>
+<h2>>cd vinyls</h2>
 <h2>>ls</h2>
 <br>
 <div class="projects">
-    <h3><u>Nevermind</u></h3>
+    <h3><u>Nirvana - Nevermind</u></h3>
     <div class="albumcontainer">
-        <img src="../images/nevermind.png" width="20%" height="20%" class="projectimage">
+        <img src="/images/nevermind.png" width="20%" height="20%" class="projectimage">
         <div class="alubmtext">
             <h4>Artist: Nirvana</h4>
             <h4>Genre: Grunge/Alt Rock</h4>
@@ -25,9 +25,9 @@ title: "music"
 </div>
 <br>
 <div class="projects">
-    <h3><u>Blurry Face</u></h3>
+    <h3><u>twenty one pilots - Blurry Face</u></h3>
     <div class="albumcontainer">
-        <img src="../images/blurry.png" width="20%" height="20%" class="projectimage">
+        <img src="/images/blurry.png" width="20%" height="20%" class="projectimage">
         <div class="alubmtext">
             <h4>Artist: twenty one pilots</h4>
             <h4>Genre: Alt Rock/Indie Rock</h4>
@@ -42,9 +42,9 @@ title: "music"
 </div>
 <br>
 <div class="projects">
-    <h3><u>Ultimate Sinatra</u></h3>
+    <h3><u>Frank Sinatra - Ultimate Sinatra</u></h3>
     <div class="albumcontainer">
-        <img src="../images/ultsinatra.png" width="20%" height="20%" class="projectimage">
+        <img src="/images/ultsinatra.png" width="20%" height="20%" class="projectimage">
         <div class="alubmtext">
             <h4>Artist: Frank Sinatra</h4>
             <h4>Genre: Jazz/Pop</h4>
@@ -59,9 +59,9 @@ title: "music"
 </div>
 <br>
 <div class="projects">
-    <h3><u>One Assassination Under God (Chapter 1)</u></h3>
+    <h3><u>Marilyn Manson - One Assassination Under God (Chapter 1)</u></h3>
     <div class="albumcontainer">
-        <img src="../images/assassination.png" width="20%" height="20%" class="projectimage">
+        <img src="/images/assassination.png" width="20%" height="20%" class="projectimage">
         <div class="alubmtext">
             <h4>Artist: Marilyn Manson</h4>
             <h4>Genre: Alt Rock</h4>
@@ -76,9 +76,9 @@ title: "music"
 </div>
 <br>
 <div class="projects">
-    <h3><u>Minecraft Volume Alpha</u></h3>
+    <h3><u>C418 - Minecraft Volume Alpha</u></h3>
     <div class="albumcontainer">
-        <img src="../images/mc.png" width="20%" height="20%" class="projectimage">
+        <img src="/images/mc.png" width="20%" height="20%" class="projectimage">
         <div class="alubmtext">
             <h4>Artist: C418</h4>
             <h4>Genre: Electronic/Soundtrack</h4>
@@ -93,9 +93,9 @@ title: "music"
 </div>
 <br>
 <div class="projects">
-    <h3><u>Steal This Album!</u></h3>
+    <h3><u>System of a Down - Steal This Album!</u></h3>
     <div class="albumcontainer">
-        <img src="../images/steal.png" width="20%" height="20%" class="projectimage">
+        <img src="/images/steal.png" width="20%" height="20%" class="projectimage">
         <div class="alubmtext">
             <h4>Artist: System Of A Down</h4>
             <h4>Genre: Alt Metal/Nu Metal</h4>
@@ -110,9 +110,9 @@ title: "music"
 </div>
 <br>
 <div class="projects">
-    <h3><u>Hybrid Theory</u></h3>
+    <h3><u>LINKIN PARK - Hybrid Theory</u></h3>
     <div class="albumcontainer">
-        <img src="../images/lpht.png" width="20%" height="20%" class="projectimage">
+        <img src="/images/lpht.png" width="20%" height="20%" class="projectimage">
         <div class="alubmtext">
             <h4>Artist: LINKIN PARK</h4>
             <h4>Genre: Nu Metal</h4>
@@ -128,23 +128,23 @@ title: "music"
 <div class="projects">
     <h3><u>Queen – Greatest Hits</u></h3>
     <div class="albumcontainer">
-        <img src="../images/queenhits.png" width="20%" height="20%" class="projectimage">
+        <img src="/images/queenhits.png" width="20%" height="20%" class="projectimage">
         <div class="alubmtext">
             <h4>Artist: Queen</h4>
             <h4>Genre: Pop Rock/Classic Rock</h4>
             <h4>Released: 2020</h4>
             <h4>Date Acquired: 2/14/25</h4>
             <h4>Favorite Track: Don't Stop Me Now (B3)</h4>
-            <h4>My Album Rating: 6/10</h4>
+            <h4>My Album Rating: 7/10</h4>
         </div>
     </div>
-    <p>Has a pretty good selection of Queen songs, thought I wish it had Under Pressure but otherwise it's a good compilation. I'm personally not the largest fan of complilations as I like to listen to albums in order, it is still good, I also really like the colors of the records themselves.</p>
+    <p>Has a pretty good selection of Queen songs, thought I wish it had Under Pressure but otherwise it's a good compilation. I really like the colors of the records themselves.</p>
     <a href="https://www.discogs.com/release/16214031-Queen-Greatest-Hits-">Discogs link</a>
 </div>
 <div class="projects">
     <h3><u>Five Finger Death Punch – A Decade Of Destruction Volume 2</u></h3>
     <div class="albumcontainer">
-        <img src="../images/5fdp.png" width="20%" height="20%" class="projectimage">
+        <img src="/images/5fdp.png" width="20%" height="20%" class="projectimage">
         <div class="alubmtext">
             <h4>Artist: Five Finger Death Punch</h4>
             <h4>Genre: Nu Metal/Hard Rock</h4>
@@ -160,7 +160,7 @@ title: "music"
 <div class="projects">
     <h3><u>JER – Death of the Heart</u></h3>
     <div class="albumcontainer">
-        <img src="../images/doth.png" width="20%" height="20%" class="projectimage">
+        <img src="/images/doth.png" width="20%" height="20%" class="projectimage">
         <div class="alubmtext">
             <h4>Artist: JER</h4>
             <h4>Genre: Ska/Punk/Indie/Emo</h4>
@@ -173,13 +173,60 @@ title: "music"
     <p>PEAK, anti-capitalism, anti-racism, pro-lgbtq, Punk Ska. It's amazing, I wholeheartedly reccomend this album and this artist.</p>
     <a href="https://www.discogs.com/release/34715838-Jer-Death-Of-The-Heart">Discogs link</a>
 </div>
-<h2>>cd wishlist</h2>
+<div class="projects">
+    <h3><u>System of a Down – System of a Down</u></h3>
+    <div class="albumcontainer">
+        <img src="/images/soad-soad.png" width="20%" height="20%" class="projectimage">
+        <div class="alubmtext">
+            <h4>Artist: System of a Down</h4>
+            <h4>Genre: Nu-Metal</h4>
+            <h4>Released: 1998</h4>
+            <h4>Date Acquired: 12/25/25</h4>
+            <h4>Favorite Track: Sugar (A3)</h4>
+            <h4>My Album Rating: 10/10</h4>
+        </div>
+    </div>
+    <p>Debut album of my favorite artist of all time, this album is heavier than their others and it plays into that heaviness very well. It is Anti-War and Anti-Capitalism through and through even from the beginning.</p>
+    <a href="https://www.discogs.com/release/12642658-System-Of-A-Down-System-Of-A-Down">Discogs link</a>
+</div>
+<div class="projects">
+    <h3><u>Pink Floyd - The Dark Side Of The Moon</u></h3>
+    <div class="albumcontainer">
+        <img src="/images/tdsotm.png" width="20%" height="20%" class="projectimage">
+        <div class="alubmtext">
+            <h4>Artist: Pink Floyd</h4>
+            <h4>Genre: Prog Rock/Psychedelic Rock</h4>
+            <h4>Released: 1973</h4>
+            <h4>Date Acquired: 12/25/25</h4>
+            <h4>Favorite Track: Breathe In The Air (A3)</h4>
+            <h4>My Album Rating: 9/10</h4>
+        </div>
+    </div>
+    <p>I mean it's Dark Side Of The Moon, what do you expect? It's good lol.</p>
+    <a href="https://www.discogs.com/release/30627961-Pink-Floyd-The-Dark-Side-Of-The-Moon">Discogs link</a>
+</div>
+<div class="projects">
+    <h3><u>Metallica – Berserker 2.0</u></h3>
+    <div class="albumcontainer">
+        <img src="/images/berserker.png" width="20%" height="20%" class="projectimage">
+        <div class="alubmtext">
+            <h4>Artist: Metallica</h4>
+            <h4>Genre: Heavy Metal/Thrash</h4>
+            <h4>Released: 2019</h4>
+            <h4>Date Acquired: 12/25/25</h4>
+            <h4>Favorite Track: Wherever I May Roam (A3)</h4>
+            <h4>My Album Rating: 6/10</h4>
+        </div>
+    </div>
+    <p>It's a recording of a radio performance and interview Metallica recorded at The Forum, Copenhagen, Denmark, 27th November 1996. It's a cool piece of Metallica history and some of the tracks sound good but it is an odd LP.</p>
+    <a href="https://www.discogs.com/release/13358767-Metallica-Berserker-20">Discogs link</a>
+</div>
+<h2>>cd vinyl wishlist</h2>
 <h2>>ls</h2>
 <br>
 <ul>
 <li>Rage Against The Machine - Rage Against The Machine</li>
 <li>Minecraft Volume Beta - C418</li>
-<li>Greatest Hits I - Queen</li>
 <li>Appetite For Destruction - Guns N' Roses</li>
 <li>Three Cheers For Sweet Revenge - My Chemical Romance</li>
 <li>The Marshall Mathers LP - Eminem</li>
@@ -209,7 +256,6 @@ title: "music"
 <li>Hypnotize - System Of A Down</li>
 <li>Mezmerize - System Of A Down</li>
 <li>Toxicity - System Of A Down</li>
-<li>System Of A Down - System Of A Down</li>
 <li>Hadestown Original Broadway Cast Recording - Anaïs Mitchell</li>
 <li>Hamilton Original Broadway Cast Recording - Lin-Manuel Miranda</li>
 <li>in the wee small hours - Frank Sinatra</li>

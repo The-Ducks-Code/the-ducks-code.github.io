@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: collection
 title: "itsbeenawhile"
 date: 2025-12-04
-rdate: 2025-12-04
 categories: blog
 tag: blog
 ---

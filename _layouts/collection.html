@@ -4,16 +4,15 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>{{ site.title }} - blog - {{ page.title }}</title>
+        <title>{{ site.title }} - {{ page.title }}</title>
         <meta name="description" content="portfolio">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://webring.mesagrey.ca/webring/boredring.css">
         <link rel="stylesheet" href="{{ "assets/css/style.css" | relative_url }}">
         <script src="{{ "assets/js/random.js" | relative_url }}"></script>
-
-
+        <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
       </head>
     <body class="crt" onload="typeWriter();">
-      <script href="{{ "assets/jquery.min.js" | relative_url }}"></script>
 
         <h1 id="title1"></h1>
         <span id="cursor"><p style="text-align: center;" id="description"></p></span>
@@ -39,18 +38,22 @@
         <br>
         <br>
         <div id="main">
-        <h3><a href="/">/</a><a href="/blog">blog</a><a href={{ page.dir }}>/{{page.title}}</a></h3>
-        
+        {% include breadcrumbs.html %}
         <h2>>cat {{ page.title }}.txt</h2>
+        {% if page.tag == 'blog' %}
 
+          <h3>{{ page.date| date: "%B %-d, %Y" }}</h3>
+
+        {% endif %}
         {{ content }}
+
         <script>
             var ti = 0;
             var di = 0;
             var mbi = 0;
             var titletxt = 'The Duck'; /* The text */
             var titlespeed = 100; /* The speed/duration of the effect in milliseconds */
-            var desctxt = sentences[Math.floor(Math.random()*sentences.length)]; /* The text */
+            var desctxt = sentences[Math.floor(Math.random()*sentences.length)];
             var descspeed = 50; /* The speed/duration of the effect in milliseconds */
             var rbspeed = 50; /* The speed/duration of the effect in milliseconds */
             var recentbs = ""; /* The text */
@@ -73,10 +76,9 @@
             }
             console.log("🦆");
         </script>
-    </div></div>
-
+        
         {% include contact.html %}
         {% include copyright.html %}
       </div>
-    </body>
+      </body>
 </html>

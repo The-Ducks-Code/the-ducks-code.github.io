@@ -493,3 +493,12 @@ img {
 .link {
   margin-right: 15px;
 }
+
+#breadcrumbs {
+  font-size: clamp(100%, 1rem + 2vw, 25px);
+  color: rgb(0, 179, 0);;
+  font-weight: 300;
+  text-align: left;
+  margin-bottom: 15px;
+  font-family:BigBlue, monospace;
+}

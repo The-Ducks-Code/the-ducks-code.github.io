@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: collection
 title:  "rdr2"
 date:   2023-09-29
-rdate: 2023-09-29
 categories: blog
 tag: blog
 

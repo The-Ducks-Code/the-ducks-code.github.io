@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: collection
 title: "randupdate"
 date:   2024-01-06
-rdate: 2024-01-06
 categories: blog
 tag: blog
 
