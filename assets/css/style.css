@@ -431,6 +431,7 @@ li {
 
 #boredring p {
     font-family:BigBlue, monospace;
+    font-size: clamp(100%, 0.75rem + 1.75vw, 10px);
 }
 
 .title {
