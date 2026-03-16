@@ -459,16 +459,14 @@ li {
   height: auto;
 }
 
-.badge-marquee--right .badge-track {
-  transform: translateX(-70%);
-}
+
 
 @keyframes badge-marquee-slide-right {
   0% {
-    transform: translateX(-70%);
+    transform: translateX(0);
   }
   100% {
-    transform: translateX(0);
+    transform: translateX(-50%);
   }
 }
 
