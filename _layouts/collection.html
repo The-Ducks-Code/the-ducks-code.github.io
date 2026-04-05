@@ -11,7 +11,7 @@
         <script src="{{ "assets/js/random.js" | relative_url }}"></script>
         <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
       </head>
-    <body class="crt" onload="typeWriter();">
+    <body class="crt">
 
         <h1 id="title1"></h1>
         <span id="cursor"><p style="text-align: center;" id="description"></p></span>
@@ -73,6 +73,7 @@
               }
             }
             console.log("🦆");
+            window.addEventListener("load", (event) => {typeWriter()});
         </script>
         
         
