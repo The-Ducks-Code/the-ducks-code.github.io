@@ -36,4 +36,13 @@ var sentences = new Array(
     "Socialism or Barbarism!",
     "Say YES to Communism!!",
     "The liberation of all oppressed groups, whether they be women, queer, trans, black, brown, indigenous, disabled, or any other minority under oppression, requires the final breath of capitalism to be exhaled and the liberating fresh air of socialism to be inhaled.",
+    "Free Cuba From US Imperialism!!",
+    "Free Lebanon!!!",
+    "Free Sudan!!",
+    "“Workers of the World, Unite!” - Karl Marx and Friedrich Engels",
+    "anti-capitalism is anti-oppression",
+    "NONE of us are free until ALL of us are free.",
+    "Free Hawaii!!",
+    "Free Ireland!!!!",
+    "Free Congo!!!!!"
     );
