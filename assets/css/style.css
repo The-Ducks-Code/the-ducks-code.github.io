@@ -501,3 +501,14 @@ img {
   margin-bottom: 15px;
   font-family:BigBlue, monospace;
 }
+
+#hit {
+
+  display: grid;
+  margin-left: auto;
+  margin-right: auto;
+  align-items:center;
+  width:12.77rem;
+  height:4.5rem;
+
+}
