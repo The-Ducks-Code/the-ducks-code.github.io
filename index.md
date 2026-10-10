@@ -14,10 +14,19 @@ title: "root"
     <h2>>ls</h2>
     <br>
     <div class="projects">
+        <h3>MARXIST RESOURCES:</h3>
+        <img src="/images/marx.png" width="20%" height="20%" class="projectimage">
+        <p>Website where I have gathered a lot of resources on how to learn about Marxism and the class struggle.</p>
+        <div class="links"> 
+            <a href="https://marx.the-duck.co" class="link"  target="_blank">visit it here!</a>
+        </div>
+    </div>
+    <div class="projects">
         <h3>Void Bullet:</h3>
         <img src="/images/voidbullet.png" width="20%" height="20%" class="projectimage">
         <p>W.I.P. roguelike game I am developing about a guy who found himself in the <b>VOID</b> and was attacked.</p>
         <div class="links"> 
+            <a href="https://github.com/the-ducks-code/void-bullet" class="link"  target="_blank">source code</a>
             <a href="https://the-duck99.itch.io/void-bullet" class="link"  target="_blank">download it here</a>
         </div>
     </div>

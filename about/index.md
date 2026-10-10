@@ -7,11 +7,9 @@ title: "about"
 <div tag="infocontainer">
 <div class="infos">
 <br>
-<p class="projects">he/him/they/them (idk what it means for me either ;-;)</p>
+<p class="projects">he/they (I like to use the term gender apathetic)</p>
 <br>
 <p class="projects">How to contact me: Discord: theduck666, email:duccman99@gmail.com, <a href="https://steamcommunity.com/id/the-duck-quack-quack/">steam</a>.</p>
-<br>
-<p class="projects">Before you interact with me know: Free Palestine, Sudan, Congo, Rojava, Ireland, Venezuela, and all other oppressed nations and peoples. Say yes to communism. Fuck the dems fuck the GOP.</p>
 <br>
 <p class="projects">Hobbies: Gaming, Programming, being politcally active (not really a hobby ig lol), Reading DC Comics, anime, mtg, D&D, collecting vinyls, and occasionally art.</p>
 <br>
@@ -23,7 +21,7 @@ title: "about"
 <br>
 <p class="projects">Favorite D&D class: Wizard or Rogue</p>
 <br>
-<p class="projects">Other Stuff about me: I am a Marxist-Lenninst, I am bisexual, I do school and community theater, I love metal.<p>
+<p class="projects">Other Stuff about me: I am a Marxist-Leninst, I am bisexual, I do school and community theater, I love metal.<p>
 
 <p class="projects">Get educated. <a href="https://marx.the-duck.co/">https://marx.the-duck.co/</a><p>
 
