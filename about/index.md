@@ -7,7 +7,7 @@ title: "about"
 <div tag="infocontainer">
 <div class="infos">
 <br>
-<p class="projects">he/they (I like to use the term gender apathetic)</p>
+<p class="projects">they/he (I like to use the term gender apathetic to describe my gender identity)</p>
 <br>
 <p class="projects">How to contact me: Discord: theduck666, email:duccman99@gmail.com, <a href="https://steamcommunity.com/id/the-duck-quack-quack/">steam</a>.</p>
 <br>
