@@ -11,6 +11,7 @@ These are the writeups I did for my Intro to Hacking Class at UCSC Midterm. I fi
 ## rot4win
 
 <img src="/images/rot4win.png" width="50%" height="50%">
+
 This challenge gave us the files data.csv and rotd.sh.
 
 data.csv was formatted like:
